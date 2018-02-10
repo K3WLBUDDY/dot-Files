@@ -15,5 +15,5 @@ syntax on
 " Enable file type based indentation if available (Useful for Python)
 filetype indent plugin on
 
-" For better contrast with dark bg when usind colors
+" For better contrast with dark bg when using colors
 set background=dark
