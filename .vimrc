@@ -1,6 +1,12 @@
 " Always display status line
 set laststatus=2
 
+" Replace tab with spaces
+set expandtab
+
+" Make tabs 4 spaces wide
+set shiftwidth=4
+
 " Set tab width
 set tabstop=4
 
