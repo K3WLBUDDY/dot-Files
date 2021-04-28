@@ -1,2 +1,2 @@
-# dot-Files
-Personal Vim and i3 dot files. You shouldn't be using them. Unless you want to. Idk
+# dot-files
+Vim, i3wm and Windows Terminal dot files I use on my setups
